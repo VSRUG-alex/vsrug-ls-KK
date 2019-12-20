@@ -1,0 +1,41 @@
+# Horizon description file for Carte du Ciel
+# 
+# File format :
+# Azimuth(integer) Altitude
+#
+# Be sure to begin at the North horizon (azimuth 0)
+# Intermediate missing value are interpolated
+ 
+000 10
+
+# GK
+047 10
+048 45
+055 50
+
+080 55
+085 55
+090 55
+
+100 50
+112 45
+113 10
+
+# boekentoren
+113 10
+114 30
+125 30
+126 10
+
+130 10
+160 10
+180 10
+200 10
+230 10
+260 10
+290 10
+325 10
+325 10
+351 10
+359 10
+

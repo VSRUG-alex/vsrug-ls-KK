@@ -1,0 +1,44 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+
+# hoeken volgens https://acscdg.com/
+010 | +00 | -05 | +00 | Sint Baafs
+002 | +00 | -05 | +00 | Belfort
+120 | +15 | +00 | +00 | Boekentoren
+354 | +00 | -05 | +00 | St Niklaas
+
+195 | +05 | +05 | +00 | watertoren Kattenberg
+183 | +05 | +00 | +00 | Campus Ledeganck
+126 | +00 | -10 | +00 | Ledeberg (kerk)
+
+222 | +05 | +05 | +00 | Sint-Pietersstation
+225 | +05 | +10 | +00 | KBC toren
+
+
+085 | +00 | +00 | +00 | grote koepel
+
+
+
+# distant stuff
+#270 | +00 | +00 | +00 | Watersportbaan?
+
+338 | +00 | -05 | +00 | St Michiels
+146 | +00 | -10 | +00 | toren SP abdij
+303 | -01 | +00 | +00 | apptn Groene Vallei
+
+
+# stops
+135 | +00 | -15 | +00 | (-45)
+150 | +00 | -15 | +00 | (-30)
+165 | +00 | -15 | +00 | (-15)
+195 | +00 | -15 | +00 | (+15)
+210 | +00 | -15 | +00 | (+30)
+225 | +00 | -15 | +00 | (+45)
+
+# TODO: alle azimuts na te kijken.
+
