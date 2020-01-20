@@ -20,7 +20,7 @@
 225 | +05 | +10 | +00 | KBC toren
 
 
-085 | +00 | +00 | +00 | grote koepel
+085 | +10 | +00 | +00 | grote koepel
 
 
 
@@ -28,7 +28,7 @@
 #270 | +00 | +00 | +00 | Watersportbaan?
 
 338 | +00 | -05 | +00 | St Michiels
-146 | +00 | -10 | +00 | toren SP abdij
+#146 | +00 | -10 | +00 | toren SP abdij
 303 | -01 | +00 | +00 | apptn Groene Vallei
 
 
