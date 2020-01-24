@@ -6,22 +6,27 @@
 # Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
 
 
-# hoeken volgens https://acscdg.com/
+# az volgens https://acscdg.com/
+
 010 | +00 | -05 | +00 | Sint Baafs
 002 | +00 | -05 | +00 | Belfort
 120 | +15 | +00 | +00 | Boekentoren
 354 | +00 | -05 | +00 | St Niklaas
 
-195 | +05 | +05 | +00 | watertoren Kattenberg
-183 | +05 | +00 | +00 | Campus Ledeganck
+195 | +05 | -10 | +00 | watertoren Kattenberg
+183 | -05 | +00 | +00 | Campus Ledeganck
 126 | +00 | -10 | +00 | Ledeberg (kerk)
 
-222 | +05 | +05 | +00 | Sint-Pietersstation
-225 | +05 | +10 | +00 | KBC toren
+222 | -00 | -05 | +00 | Sint-Pietersstation
+225 | +01.14 | -05 | +00 | KBC toren ~+1.14
+
+#235 | +01.50 | -05 | +00 | dummy +1.5
+
+277 | +05 | -10 | +00 | ant/r.
 
 
 040 | +15 | +00 | +00 | toeg. grasveld/meteo
-085 | +10 | +00 | +00 | grote koepel
+085 | +30 | +00 | +00 | grote koepel
 
 
 
@@ -34,12 +39,12 @@
 
 
 # stops
-135 | +00 | -15 | +00 | (-45)
-150 | +00 | -15 | +00 | (-30)
-165 | +00 | -15 | +00 | (-15)
-195 | +00 | -15 | +00 | (+15)
-210 | +00 | -15 | +00 | (+30)
-225 | +00 | -15 | +00 | (+45)
+#135 | +00 | -15 | +00 | (-45)
+#150 | +00 | -15 | +00 | (-30)
+#165 | +00 | -15 | +00 | (-15)
+#195 | +00 | -15 | +00 | (+15)
+#210 | +00 | -15 | +00 | (+30)
+#225 | +00 | -15 | +00 | (+45)
 
 # TODO: alle azimuts na te kijken.
 
